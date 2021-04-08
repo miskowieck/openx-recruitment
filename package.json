@@ -1,0 +1,15 @@
+{
+  "name": "openx-rekrutacja",
+  "version": "1.0.0",
+  "description": "OpenX first assignment",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^26.6.3"
+  }
+}
